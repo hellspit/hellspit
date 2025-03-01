@@ -30,8 +30,7 @@ I'm currently diving deep into advanced React patterns and exploring serverless 
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [anuj.dubey.dev@gmail.com](mailto:anuj.dubey.dev@gmail.com)
 
 ---
 
