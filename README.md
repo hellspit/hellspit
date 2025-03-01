@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
